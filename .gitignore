@@ -1,0 +1,4 @@
+composer.lock
+.env
+route.exemplos.php
+router_copy.php
