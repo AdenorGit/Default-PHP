@@ -12,4 +12,11 @@ class WebController
         require VIEW . "Web/start.php";
     }
 
+    public function admin()
+    {
+        $title = "Titulo da Página";
+        
+        require VIEW . "Admin/admin.php";
+    }
+
 }
