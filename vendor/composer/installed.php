@@ -1,19 +1,19 @@
 <?php return array(
     'root' => array(
-        'name' => 'adenor/default',
-        'pretty_version' => 'dev-main',
-        'version' => 'dev-main',
-        'reference' => '4f872441313d43f579500dd20e765742afee0997',
+        'name' => 'adenor/site-eventos',
+        'pretty_version' => '1.0.0+no-version-set',
+        'version' => '1.0.0.0',
+        'reference' => null,
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
-        'adenor/default' => array(
-            'pretty_version' => 'dev-main',
-            'version' => 'dev-main',
-            'reference' => '4f872441313d43f579500dd20e765742afee0997',
+        'adenor/site-eventos' => array(
+            'pretty_version' => '1.0.0+no-version-set',
+            'version' => '1.0.0.0',
+            'reference' => null,
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

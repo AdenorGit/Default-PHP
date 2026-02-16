@@ -2,3 +2,5 @@ composer.lock
 .env
 route.exemplos.php
 router_copy.php
+database.php
+bootstrap-5.3.8-dist.zip
